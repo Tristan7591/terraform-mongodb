@@ -7,3 +7,4 @@ Prérequis:
 !! Il et probable que la version free de mongodb limite certainnes possibilités de deploiement. 
 Template minimaliste
 !! Bien configurer le fichier .tfvars au risque de devoir a chaque terrafrom plan et terraform apply devoir rentrer manuellement les clées et org_id!!
+Ceci est réaliser dans le cadre d'un entrainement et n'est pas optimiser pour de la production.
